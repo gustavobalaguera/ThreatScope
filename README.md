@@ -1,6 +1,8 @@
 # ThreatScope - Threat Intelligence Enrichment 
 I created a zero-database SOC environment on a free Oracle Cloud instance to familiarize myself with both offensive and defensive sides of network and cloud defense strategies. I really enjoyed this project as I got to learn more about what I love while simultaneously giving back to the cyber community by reporting all malicious IPs to **AbuseIPDB**. Below are the parts I followed throughout this project. ***Note, these notes should not be followed blindly as I include mistakes I made and how I mitigated them.*** 
 
+Check out the website here: [ThreatScope | Live Threat Intelligence Dashboard](https://soc.gb-resu.me/)
+
 *Disclaimer: AI was used in the generation of this README.md file based on my personal notes*
 
 ### Overview
